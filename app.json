@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vmess or vhhs",
+  "description": "vmess or vhhs",
   "keywords": [
-    "vmess or vles"
+    "vmess or vhhs"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/Meyu65888/lonely",
+  "repository": "https://github.com/Meyu65888/lonely",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
